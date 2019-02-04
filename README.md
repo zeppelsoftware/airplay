@@ -4,3 +4,5 @@ This is a client for streaming the computers screen to a AppleTV which is in the
 
 Usage:
 java -jar airplay.jar
+
+There is not a lot to say about this project.
